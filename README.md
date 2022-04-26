@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello👋&height=200&fontSize=100)
-![header](color=gradient&text=SuHoChoi+&height=200&fontSize=100)
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello👋&height=200&fontSize=50)
+<h3 align="center"&fontSize=50>:sunglasses:I'm SuHoChoi</h3>
+<h3>:computer: Tech Stack :computer:</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
