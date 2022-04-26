@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello👋&height=200&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello:smile:&height=200&fontSize=50)
 <h3 align="center"&fontSize=50>:sunglasses:I'm SuHoChoi</h3>
 <h3>:computer: Tech Stack :computer:</h3>
 
