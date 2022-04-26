@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello👋&height=200&fontSize=100)
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=SuHoChoi+&height=200&fontSize=100)
+![header](color=gradient&text=SuHoChoi+&height=200&fontSize=100)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
