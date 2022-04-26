@@ -20,7 +20,7 @@
 
 ### ⚙️ Tool
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-Pe&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-Pe)](https://github.com/anuraghazra/github-readme-stats)
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Pe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
