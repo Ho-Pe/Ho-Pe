@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Hello😄&height=200&fontSize=50)
-<h3 align="center">:sunglasses: I'm SuHoChoi</h3>
+<h3 align="center">:sunglasses: I'm SooHoChoi</h3>
 <br>
 
 <h3 align="center">:computer: Tech Stack :computer:</h3>
